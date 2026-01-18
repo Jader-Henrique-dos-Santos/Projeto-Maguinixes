@@ -1,5 +1,16 @@
-# Projeto-Maguinixes
+# Projeto Maguinixes
 
-## Essa pagina foi criada com o interrese assim de treinar html e css, fi uma pagina com um produto inventado, usei um nome de uma marca inventada e crirei assim um painel simples de compra, com estrelas e descrição so para treinar.
+Página de produto fictícia criada para prática de HTML e CSS.
 
+## Tecnologias
+- HTML5
+- CSS3
+
+## Objetivo
+Serve para treinar estilização básica e estados de interação (hover e active).
+
+## Observação
+Projeto desenvolvido apenas para fins de estudo.
+
+## Preview
 <img width="815" height="1152" alt="Projeto Maguinixes" src="https://github.com/user-attachments/assets/285242b2-8197-4ef6-87ed-44d9ad8b00fc" />
